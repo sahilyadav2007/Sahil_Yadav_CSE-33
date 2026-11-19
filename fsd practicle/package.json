@@ -1,0 +1,16 @@
+{
+  "name": "fsd-practical",
+  "version": "1.0.0",
+  "description": "FSD Node.js Practical Codes",
+  "main": "exp1/partA.js",
+  "scripts": {
+    "exp1:a": "node exp1/partA.js",
+    "exp1:b": "node exp1/partB.js",
+    "exp1:c": "node exp1/partC.js",
+    "exp2": "node exp2/exp2.js",
+    "exp3": "node exp3/exp3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
